@@ -1,6 +1,6 @@
 # Face-Aging-using-GANS
 
-In particular, our contributions are as following:
+In particular,the contribution are as following:
 1. Age-cGAN (Age Conditional Generative Adversarial Network), the first GAN to generate high quality synthetic images within required age categories.
 2. We propose a novel latent vector optimization approach which allows Age-cGAN to reconstruct an input face image preserving the original person’s identity.
 
